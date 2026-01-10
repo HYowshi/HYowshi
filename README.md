@@ -68,7 +68,13 @@
 </div>
 
 ---
+<h2 align="center">📈 Coding Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYowshi&bg_color=1a1b26&color=FF9100&line=FF9100&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+<br>
 
+---
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -82,9 +88,15 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d65a16&height=100&section=footer" width="100%">
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=100&section=footer&text=SYSTEM%20OFFLINE...&fontSize=30&fontColor=FF9100&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%">
   
   <p>
-    <strong>© 2025 Harashi Yowshi</strong>
+    <img src="https://img.shields.io/badge/System-Shutdown_Sequence_Initiated-FF9100?style=for-the-badge&logo=windows-terminal&logoColor=1a1b26" alt="Terminal">
+    <br>
+    <code>[root@HYowshi ~]# exit 0</code>
   </p>
+  <p><strong>© 2025 Harashi Yowshi</strong></p>
 </div>
+
+
