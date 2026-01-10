@@ -68,35 +68,35 @@
 </div>
 
 ---
+
+<h2 align="center">🌆 Cyber City Map</h2>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
+</div>
+<br>
+
 <h2 align="center">📈 Coding Activity</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYowshi&bg_color=1a1b26&color=FF9100&line=FF9100&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 <br>
 
----
-## 🐍 Contribution Graph
-
+<h2 align="center">🐍 Fire Snake</h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/HYowshi/HYowshi/output/github-contribution-grid-snake-orange.svg" />
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=100&section=footer&text=SYSTEM%20OFFLINE...&fontSize=30&fontColor=FF9100&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%">
-  
-  <p>
-    <img src="https://img.shields.io/badge/System-Shutdown_Sequence_Initiated-FF9100?style=for-the-badge&logo=windows-terminal&logoColor=1a1b26" alt="Terminal">
-    <br>
-    <code>[root@HYowshi ~]# exit 0</code>
-  </p>
-  <p><strong>© 2025 Harashi Yowshi</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,38,255;255,145,0,255&height=120&section=footer" width="100%">
+  <div style="margin-top: -90px; position: relative; z-index: 10;">
+    <p style="color: white; font-weight: bold; font-family: sans-serif;">
+      © 2025 Harashi Yowshi | ⚡ Building the Future
+    </p>
+  </div>
 </div>
-
-
