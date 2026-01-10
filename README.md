@@ -8,13 +8,13 @@
   <a href="https://github.com/HYowshi">
     <img src="https://img.shields.io/badge/Github-1a1b26.svg?style=for-the-badge&logo=github&logoColor=FF9100" alt="GitHub"/>
   </a>
-  <a href="LINK_LINKEDIN_CUA_BAN">
+  <a href="https://www.linkedin.com/in/t%C3%A2m-t%E1%BA%A1-duy-30b5663a0/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:EMAIL_CUA_BAN">
+  <a href="mailto:harashiyowshi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="LINK_DISCORD">
+  <a href="HYowshi">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
@@ -72,12 +72,6 @@
 <h2 align="center">🌆 Cyber City Map</h2>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
-</div>
-<br>
-
-<h2 align="center">📈 Coding Activity</h2>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYowshi&bg_color=1a1b26&color=FF9100&line=FF9100&point=FFFFFF&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 <br>
 
