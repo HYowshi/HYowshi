@@ -1,19 +1,28 @@
 name: Generate Snake
+
 on:
   schedule:
-    - cron: "0 */12 * * *" # Chạy 12 tiếng một lần
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Chạy tự động 12 tiếng/lần
+  workflow_dispatch: # Cho phép chạy thủ công
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            # 1. Giữ lại bản thường (cho màn hình sáng)
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+            # 2. TẠO RẮN LỬA CYBERPUNK (Cho màn hình tối)
+            # color_snake: Màu cam neon #FF9100
+            # color_dots: Dải màu từ tối đến sáng (Cam đậm -> Cam rực rỡ)
+            dist/github-contribution-grid-snake-orange.svg?color_snake=#FF9100&color_dots=#161b22,#4c1d00,#8c3500,#cc5200,#ff9100
+            
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
