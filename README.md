@@ -1,7 +1,7 @@
 [![MasterHead](Background.gif)](https://github.com/HYowshi)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9100&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Vibe+Coder;Designer+%26+Content+Creator;C%2B%2B+%7C+C%23+%7C+Python+%7C+SQL;Supabase+%7C+Unity+%7C+High-Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9100&center=true&vCenter=true&width=600&lines=Backend+Developer;Designer+%26+Content+Creator;C%2B%2B+%7C+C%23+%7C+Python+%7C+SQL;Supabase+%7C+Unity+%7C+High-Performance" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -32,7 +32,6 @@
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"> About Me</h2>
   
   <p style="text-align: justify; font-size: 16px; line-height: 1.6;">
-    🚀 <b>High-Performance Engineer & Vibe Coder.</b><br>
     Tôi là một sự kết hợp giữa tư duy logic của Backend và tư duy thẩm mỹ của một Designer.<br><br>
     ⚙️ <b>Core Stack:</b>
     <ul>
@@ -107,7 +106,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,27,38,255;255,145,0,255&height=120&section=footer" width="100%">
   <div style="margin-top: -90px; position: relative; z-index: 10;">
     <p style="color: white; font-weight: bold; font-family: sans-serif;">
-      © 2025 Harashi Yowshi | ⚡ Vibe Coder & Backend Expert
+      © 2025 Harashi Yowshi
     </p>
   </div>
 </div>
